@@ -24,7 +24,7 @@
 ## (a), (b) Таблица с числом ридов
 ### Которые закартированны на участках 11347700-11367700; 40185800-40195800 и процентом дуплицированных прочтений для каждого образца
 
-[Colab](https://colab.research.google.com/drive/1D5meH77a5aq3I9EfYKwNjglxfTfjAnye#scrollTo=RQAK_lggxsXi)
+# [Colab](https://colab.research.google.com/drive/1D5meH77a5aq3I9EfYKwNjglxfTfjAnye#scrollTo=RQAK_lggxsXi)
 
 
 | BS-Seq | ch11: 11347700-11367700 | ch11: 40185800-40195800 | deduplication |
